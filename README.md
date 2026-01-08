@@ -78,3 +78,5 @@ Output files retain the same structure inside the output directory.
 	•	Image-heavy PDFs benefit most
 	•	Text-based PDFs may see minimal reduction
 
+
+# second version w'll updated soon with ghostreducer
