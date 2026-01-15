@@ -33,13 +33,6 @@ Python dependencies (example):
 
 pip install -r requirements.txt
 
-⚠️ Ensure system-level tools are installed when running in Docker or CI runners.
-
-⸻
-├── reducer.py
-├── requirements.txt
-└── README.md
-
 
 ⸻
 
