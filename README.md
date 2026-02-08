@@ -73,3 +73,5 @@ Output files retain the same structure inside the output directory.
 
 
 # second version w'll updated soon with ghostreducer
+
+verson 1
